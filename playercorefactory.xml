@@ -90,6 +90,11 @@
 			<hidexbmc>true</hidexbmc>
 			<playcountminimumtime>120</playcountminimumtime>
 		</player>
+		<player name="LocalCast" type="ExternalPlayer" audio="false" video="true"> 
+			<filename>de.stefanpledl.localcast</filename> 
+			<hidexbmc>true</hidexbmc> 
+			<playcountminimumtime>120</playcountminimumtime> 
+		</player> 
 
 		<player name="DaroonPlayer" type="ExternalPlayer" audio="false" video="true">
 			<filename>com.daroonplayer.dsplayer</filename>
